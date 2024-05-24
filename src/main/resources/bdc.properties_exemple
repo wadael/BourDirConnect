@@ -1,0 +1,4 @@
+# si vous voulez executer le TU, copiez ce fichier sous le nom bdc.properties
+utilisateur=aaa
+mdp=bbbb
+passcode=123456
